@@ -4,3 +4,6 @@
 [submodule "frontt"]
 	path = frontt
 	url = https://github.com/your-weddy/front.git
+[submodule "front"]
+	path = front
+	url = https://github.com/your-weddy/front.git
